@@ -1,9 +1,8 @@
 # What is this?
-This is a method of downloading PSP games for the PSP using PKGI databases, but downloading them to your computer for faster speeds
+A TUI PKGI downloader that allows for faster speeds when
 
 # Usage
-- Drag your PGKI PSP Game database file, and rename it to "target.txt"
-- Run parser.py
 - Run downloader.py
-- Select your game
-- Download finished!
+- Select your type (Games, Themes, etc.)
+- Choose your game ID
+- Done! the PKG is now in the directory!
